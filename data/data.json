@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "title 1",
+        "amount": 400.0,
+        "category": "cattttt",
+        "date": "2026-10-08"
+    },
+    {
+        "id": 2,
+        "title": "title2",
+        "amount": 50.0,
+        "category": "cat2",
+        "date": "2026-10-08"
+    },
+    {
+        "id": 3,
+        "title": "title3",
+        "amount": 400.0,
+        "category": "cat4",
+        "date": "2026-10-16"
+    }
+]
